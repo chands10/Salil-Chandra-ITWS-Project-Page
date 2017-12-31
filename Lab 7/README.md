@@ -1,0 +1,1 @@
+From the sample CSS template (based on 'Tranquille' by Dave Shea), I liked the idea of a sidebar and changed its style to better match the rest of the CSS. I also liked the placement of the images from the sample CSS template and modified them to fit the site's theme.

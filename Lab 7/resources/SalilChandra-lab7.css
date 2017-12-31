@@ -1,0 +1,184 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* This file based on 'Tranquille' by Dave Shea */
+/* You may use this file as a foundation for any new work, but you may find it easier to start from scratch. */
+/* Not all elements are defined in this file, so you'll most likely want to refer to the xhtml as well. */
+
+/* Your images should be linked as if the CSS file sits in the same folder as the images. ie. no paths. */
+
+
+/* basic elements */
+html {
+	margin: 0;
+	padding: 0;
+    cursor: url(Prom.png), auto;
+    background-color: black;
+	}
+body { 
+	font-family: 'Roboto', sans-serif;
+	line-height: 1.88889;
+	color: #E65100;
+	background: url(JohnJayMan2.jpg) no-repeat bottom right; 
+	margin: 0; 
+	padding: 0;
+	}
+p { 
+	margin-top: 0; 
+	text-align: center;
+    background-color:rgba(0,0,0,0.6);
+	}
+h3 { 
+	font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
+    text-shadow: 4px 4px 4px #aaa;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #2196F3;
+	}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #2962FF;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #D4CDDC;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: #9685BA;
+	}
+abbr {
+	border-bottom: none;
+	}
+
+
+/* specific divs */
+.page-wrapper { 
+	background: url(JohnJayManBackground.jpg) no-repeat top left; 
+	padding: 0 175px 0 110px;  
+	margin: 0; 
+	position: relative;
+	}
+
+.intro { 
+	min-width: 470px;
+	width: 100%;
+	}
+
+header h1 { 
+	margin-top: 10px;
+    text-shadow: 4px 4px 4px #aaa;
+	display: block;
+	width: 219px;
+	height: 87px;
+	float: left;
+	}
+header h2 { 
+	margin-top: 58px; 
+	margin-bottom: 40px; 
+	width: 200px; 
+	height: 18px; 
+	white-space: nowrap;
+	}
+header {
+	padding-top: 20px;
+	height: 87px;
+}
+
+.summary {
+    position: sticky;
+    top: 0;
+	clear: both; 
+	margin: 20px 20px 20px 10px; 
+	width: 1300px; 
+	float: right;
+    background-image: url(Prom%20Big.jpg);
+    opacity: 0.75;
+	}
+.summary p {
+	font-family: 'Roboto Mono', monospace;
+	text-align: center;
+    font-size: 1.5em;
+    background-color:rgba(0,0,0,0.7);
+    font-variant: small-caps;
+	}
+
+.preamble {
+	clear: right; 
+	padding: 0px 10px 0 10px;
+	}
+.supporting {	
+	padding-left: 10px; 
+	margin-bottom: 40px;
+	}
+
+footer { 
+	text-align: left; 
+    background-image: url(li.png);
+	}
+footer a:link, footer a:visited { 
+	margin-right: 20px; 
+	}
+
+.sidebar {
+	margin-left: 600px; 
+	position: absolute; 
+	top: 0; 
+	right: 0;
+	}
+.sidebar .wrapper { 
+	font: 10px verdana, sans-serif; 
+    background-color: #90CAF9;
+    border-radius: 1%;
+	padding: 10px; 
+	margin-top: 150px; 
+	width: 130px; 
+	}
+.sidebar h3.select {  
+	margin: 10px 0 5px 0; 
+	width: 97px; 
+	height: 16px; 
+	}
+.sidebar h3.archives { 
+	margin: 25px 0 5px 0; 
+	width:57px; 
+	height: 14px; 
+	}
+.sidebar h3.resources { 
+	margin: 25px 0 5px 0; 
+	width:63px; 
+	height: 10px; 
+	}
+
+
+.sidebar ul {
+	margin: 0;
+	padding: 0;
+	}
+.sidebar li {
+	line-height: 1.3em; 
+	background-image: url(li.png);
+	display: block; 
+	padding-top: 5px; 
+	margin-bottom: 5px;
+	list-style-type: none;
+	}
+.sidebar li a:link {
+	color: #2962FF;
+	}
+.sidebar li a:visited {
+	color: #E1F5FE;
+	}
+
+
+.extra1 {
+	background: url(JohnJayMan1.jpg) top left no-repeat; 
+	position: absolute; 
+	top: 40px; 
+	right: 0; 
+	width: 148px; 
+	height: 110px;
+	}

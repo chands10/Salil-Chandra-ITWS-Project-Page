@@ -1,0 +1,54 @@
+{
+    "menuItem": [
+        {
+            "menuName": "Lab 2",
+            "menuDesc": "Resume",
+            "menuURL": "Lab 2/SalilChandra-resume.html"
+        },
+        {
+            "menuName": "Lab 3",
+            "menuDesc": "Old Projects Page",
+            "menuURL": "Lab 3/projects.html" 
+        },
+        {
+            "menuName": "Lab 4",
+            "menuDesc": "RSS Feed",
+            "menuURL": "Lab 4/RSS.xml"
+        },
+        {
+            "menuName": "Lab 4",
+            "menuDesc": "Atom Feed",
+            "menuURL": "Lab 4/Atom.xml"
+        },
+        {
+            "menuName": "Lab 5",
+            "menuDesc": "HTML Form",
+            "menuURL": "Lab 5/lab5.html"
+        },
+        {
+            "menuName": "Lab 6",
+            "menuDesc": "jQuery",
+            "menuURL": "Lab 6/lab6.html"
+        },
+        {
+            "menuName": "Lab 7",
+            "menuDesc": "CSS Zen Garden Page",
+            "menuURL": "Lab 7/SalilChandra-lab7.html"
+        },
+        {
+            "menuName": "Lab 8",
+            "menuDesc": "Security",
+            "menuURL": "Lab 8/lab8.html"
+        },
+        {
+            "menuName": "Lab 9",
+            "menuDesc": "Projects",
+            "menuURL": "projects.html"
+        },
+        {
+            "menuName": "Lab 10",
+            "menuDesc": "Databases and SQL",
+            "menuURL": "Lab 10/iitajax/index.php"
+        }
+    ]
+}

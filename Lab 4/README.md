@@ -1,0 +1,3 @@
+Projects URL: https://afsws.rpi.edu/AFS/home/30/chands10/public_html/iit/projects.html
+
+I created an RSS Feed and an Atom Feed both containing the same content. The articles contained in these feeds include "Google is permanently nerfing all Home Minis because mine spied on everything I said 24/7 [Update x2]," "Roger Federer beats Rafael Nadal for fifth straight time, wins Shanghai Masters title," "Hurricane Ophelia heading to Ireland, then Scotland," and "Hogwarts Express rescues stranded family in Scotland." Each article was found on a different website.

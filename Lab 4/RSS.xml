@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+	<title>Salil Chandra RSS</title>
+	<description>This is my RSS feed composed of news articles I find interesting.</description>
+	<link>http://www.example.com/</link>
+	<lastBuildDate>Mon, 16 Oct 2017 00:01:00 -0500 </lastBuildDate>
+	<pubDate>Mon, 16 Oct 2017 00:01:00 -0500 </pubDate>
+ 
+    <!--Start of content-->
+    <item>
+      <title>Google is permanently nerfing all Home Minis because mine spied on everything I said 24/7 [Update x2]</title>
+      <link>http://www.androidpolice.com/2017/10/10/google-nerfing-home-minis-mine-spied-everything-said-247/</link>
+      <description>Recently, privacy concerns have been expressed over Google Home products.</description>
+      <pubDate>Wed, 11 Oct 2017 17:28:00 -0700</pubDate>
+      <!--Updated on October 11, 2017 at 5:28 PM PDT -->
+    </item>
+    
+    <item>
+      <title>Roger Federer beats Rafael Nadal for fifth straight time, wins Shanghai Masters title</title>
+      <link>http://www.espn.com/tennis/story/_/id/21028734/roger-federer-defeats-rafael-nadal-win-shanghai-masters-title</link>
+      <description>Meeting for the fourth time this year, Federer once again defeats Nadal to win the Masters 1000 title in Shanghai.</description>
+      <pubDate>Sun, 15 Oct 2017 11:58:00 -0500</pubDate>
+      <!--Updated on October 15, 2017 at 11:58 AM EDT -->
+    </item>
+    
+    <item>
+      <title>Hurricane Ophelia heading to Ireland, then Scotland</title>
+      <link>http://www.cnn.com/2017/10/15/europe/hurricane-ophelia/index.html</link>
+      <description>Hurricane Ophelia is a Category 2 storm that is heading east towards Ireland. It is travelling farther east than any other major hurricane.</description>
+      <pubDate>Sun, 15 Oct 2017 15:23:00 -0500</pubDate>
+      <!--Updated on October 15, 2017 at 3:23 PM EDT -->
+    </item>
+    
+    <item>
+      <title>Hogwarts Express rescues stranded family in Scotland</title>
+      <link>http://abcnews.go.com/Weird/wireStory/hogwarts-express-rescues-stranded-family-scotland-50493496</link>
+      <description>The Jacobite steam train, the one featured in the Harry Potter movies, rescued a family of six this past Friday in Scotland.</description>
+      <pubDate>Sun, 15 Oct 2017 12:51:00 -0500</pubDate>
+      <!--Updated on October 15, 2017 at 12:51 PM EDT -->
+    </item>
+    <!--End of content-->
+
+    
+</channel>
+</rss>
+
