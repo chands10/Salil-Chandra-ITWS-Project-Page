@@ -49,6 +49,11 @@
             "menuName": "Lab 10",
             "menuDesc": "Databases and SQL",
             "menuURL": "Lab 10/iitajax/index.php"
+        },
+        {
+            "menuName": "Term Project",
+            "menuDesc": "The People's Mind",
+            "menuURL": "https://github.com/redysp/ThePeopleMind"
         }
     ]
 }
